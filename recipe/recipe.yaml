@@ -2,7 +2,7 @@ schema_version: 1
 
 context:
   python_min: "3.11"
-  version: "0.1.4"
+  version: "0.1.5"
 
 package:
   name: bax_algorithms
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/b/bax_algorithms/bax_algorithms-${{ version }}.tar.gz
-  sha256: 7dfa429eb1a65f619454f465bff9cddc253acf8a8a9bb0883bfc23e0f2e254f4
+  sha256: 9662a9f67f5a4a94bd5b81bf08630163f66370184eb44f7a513bb490925703a6
 
 build:
   number: 0
